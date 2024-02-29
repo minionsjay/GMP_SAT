@@ -1,0 +1,9 @@
+Round:1, Maxdegree:2, Time:0.055212974548339844
+Round:2, Maxdegree:4, Time:0.10558772087097168
+Round:3, Maxdegree:8, Time:0.2917811870574951
+Round:4, Maxdegree:14, Time:0.9168426990509033
+Round:5, Maxdegree:24, Time:7.145461082458496
+Round:6, Maxdegree:36, Time:9.584421157836914
+Round:7, Maxdegree:46, Time:12.461069345474243
+Round:8, Maxdegree:55, Time:10.594502449035645
+Round:9, Maxdegree:62, Time:7.840438365936279
