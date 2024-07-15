@@ -16,3 +16,6 @@ The Chaghri file contains three models: GMP_SAT, GMP_MILP, and GMP_SMT. You can 
 ## Ciminion
 
 The Ciminion file contains the GMP_SAT model, which can be executed using the run.ipynb to solve for the upper bound of algebraic degrees.
+
+## Test_degree_bound
+The code for testing the actual algebraic degree is in Test_degree_bound.
