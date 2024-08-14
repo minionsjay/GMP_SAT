@@ -1,6 +1,6 @@
 # GeneralMonomialPrediction by MILP and SAT
 
-This repository contains the source code for the paper "Tighter Upper Bound of Algebraic Degrees for Some Arithmetization-Oriented Ciphers".
+This repository contains the source code for the paper "Imporoved Upper Bound of Algebraic Degrees for Some Arithmetization-Oriented Ciphers".
 
 ## Requirements 
 
